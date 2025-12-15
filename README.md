@@ -96,47 +96,11 @@ Depending on the task, models are evaluated using:
 
 These metrics help measure how close predictions are to real-world values.
 
----
 
-## 📁 Project Structure (Example)
-```
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-│   ├── weather_prediction.ipynb
-│   ├── sales_xgboost.ipynb
-│   └── medical_sales_prediction.ipynb
-├── models/
-├── README.md
-```
-
----
-
-## 🎯 Key Learning Outcomes
-- Practical understanding of **feature engineering**
-- How **ensemble models** outperform simple models
-- Applying **XGBoost for real-world regression problems**
-- Building reproducible ML experiments using Jupyter
-
----
-
-## 🔮 Future Improvements
-- Hyperparameter tuning (GridSearch / RandomSearch)
-- Cross-validation
-- Model explainability (SHAP values)
-- Deployment as an API or dashboard
-
----
 
 ## 👤 Author
 **Nsengiyumva Nicolas**  
 Software & Machine Learning Developer  
-
----
-
-## ⭐ Final Note
-This project reflects a **hands-on approach to applied machine learning**, focusing on solving realistic prediction problems using modern ML tools and best practices.
 
 Feel free to explore, learn, and build upon this work!
 
